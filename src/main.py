@@ -391,8 +391,7 @@ queries = {
         "_titolo": "\n=== SEZIONE ALIMENTAZIONE ===",
         "_input_unit": "kg_cibo",
 
-        "manzo_bestiame": f"{p_cibo} manzo (da allevamento)?",
-        "manzo_media": f"{p_cibo} manzo (media generica, da inserire solo se non si hanno abbastanza informazioni)?",
+        "manzo_bestiame": f"{p_cibo} manzo (da allevamento)?", "manzo_media": f"{p_cibo} manzo (media generica, da inserire solo se non si hanno abbastanza informazioni)?",
         "cioccolato": f"{p_cibo} cioccolato?",
         "caffe'": f"{p_cibo} caffè?",
         "gamberetti": f"{p_cibo} gamberetti?",
